@@ -1,7 +1,7 @@
 Politechnika Śląska
 Wydział Matematyk Stosowanej
 Kierunek Informatyka
-Gliwice, 01.10.2020
+Gliwice, 04.02.2022
 
 
 
