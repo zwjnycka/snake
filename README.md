@@ -18,11 +18,11 @@ Tematem projektu jest gra typu Snake napisana w języku C++. Założeniem projek
 
 2. Wymagania 
 
-1. Proste menu umożliwiające rozpoczęcie rozgrywki
-2. Generowanie planszy na której pojawiać się będą punkty
-3. Wydłużanie się Węża po zebraniu punktu
-4. Możliwość sterowania 
-5. Zliczanie punktów zdobytych przez gracza
+a. Proste menu umożliwiające rozpoczęcie rozgrywki
+b. Generowanie planszy na której pojawiać się będą punkty
+c. Wydłużanie się Węża po zebraniu punktu
+d. Możliwość sterowania 
+e. Zliczanie punktów zdobytych przez gracza
 
 3. Przebieg realizacji 
 
