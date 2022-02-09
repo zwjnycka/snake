@@ -34,28 +34,21 @@ ctime – obsługa czasu konieczna do ustalenia szybkości poruszania
 random – obsługa losowania
 
 4. Instrukcja użytkownika 
-1.Wybór rozpoczęcia gry w menu
+
+a.Wybór rozpoczęcia gry w menu
  ![obraz](https://user-images.githubusercontent.com/66797963/153300426-999010fe-1a0b-45d3-a2f9-3d59b30bdda9.png)
 
-2. Wprowadzenie wielkości planszy i szybkości poruszania
- 
+b. Wprowadzenie wielkości planszy i szybkości poruszania
+ ![obraz](https://user-images.githubusercontent.com/66797963/153300531-8010318e-6540-4c5b-9dda-bedaed274187.png)
 
+c. Zapoznanie się z metodą kontroli
+ ![obraz](https://user-images.githubusercontent.com/66797963/153300552-b7510731-9bd9-4d05-b568-aa6af580c650.png)
 
+d. Poruszanie się wężem, zbieranie pożywienia i aktywne kontrolowanie liczby zdobytych punktów poniżej planszy
+ ![obraz](https://user-images.githubusercontent.com/66797963/153300571-ee43fb53-0d61-4e18-8aef-fe3a99ce75f6.png)
 
-3. Zapoznanie się z metodą kontroli
- 
-
-
-
-5. Poruszanie się wężem, zbieranie pożywienia i aktywne kontrolowanie liczby zdobytych punktów poniżej planszy
- 
-
-
-
-6. W momencie przegranej pojawienie się komunikatu koniec gry i liczby zdobytych punktów. Powrót do menu
- 
-
-
+e. W momencie przegranej pojawienie się komunikatu koniec gry i liczby zdobytych punktów. Powrót do menu
+ ![obraz](https://user-images.githubusercontent.com/66797963/153300609-64776ea2-f439-4527-a1fa-4207886f541d.png)
 
 5. Podsumowanie i wnioski.
 
